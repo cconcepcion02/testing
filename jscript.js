@@ -50,7 +50,7 @@
 						}else{
 						text += " and " + str[i].likes[j];
 						}
-				
+				     
 					}				
 			} 
 			

@@ -1,6 +1,6 @@
 <?php 
 $string = "";
-
+    
 $string .= "name";
 $string .= "lastname";
 echo $string;
